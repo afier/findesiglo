@@ -4,11 +4,12 @@
   "created_by": "afier",
   "title": "Fin de Siglo (2019) Full Film",
   "slug": "fin-de-siglo-2019-full-film",
-  "updated_at": "2026-06-26T17:57:56.214Z",
+  "updated_at": "2026-06-26T18:01:54.947Z",
   "updated_by": "afier",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "e6ecd4c0-e525-4566-b442-ba8b7ec81085"
-  }
+  },
+  "parent": "da21bf8b-9949-49bf-8db4-4ea13fc15572"
 }
