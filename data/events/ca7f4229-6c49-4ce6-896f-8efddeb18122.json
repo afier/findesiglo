@@ -16,7 +16,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Fin de Siglo (2019) Dance Scene"
+          "text": "Scene of characters Javi and Ocho dancing in Lucio Castro's film, "
+        },
+        {
+          "text": "Fin de Siglo ",
+          "italic": true
+        },
+        {
+          "text": "(2019). "
         }
       ]
     }
@@ -28,6 +35,6 @@
   ],
   "created_at": "2026-06-26T15:05:04.860Z",
   "created_by": "afier",
-  "updated_at": "2026-06-26T18:08:04.499Z",
+  "updated_at": "2026-06-26T18:12:08.002Z",
   "updated_by": "afier"
 }
