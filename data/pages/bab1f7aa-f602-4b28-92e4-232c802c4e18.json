@@ -4,12 +4,11 @@
   "created_by": "afier",
   "title": "Fin de Siglo (2019)",
   "slug": "fin-de-siglo-2019",
-  "updated_at": "2026-06-26T17:57:13.495Z",
+  "updated_at": "2026-06-26T18:12:17.148Z",
   "updated_by": "afier",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "ca7f4229-6c49-4ce6-896f-8efddeb18122"
-  },
-  "parent": "da21bf8b-9949-49bf-8db4-4ea13fc15572"
+  }
 }
