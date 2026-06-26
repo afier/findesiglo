@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "1ae2c50e-ee54-4cbe-9228-c68a4153aa6c": {
+      "label": "Fin de Siglo (2019) Dance Scene",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/VU-NVdn9HXA?si=C7cnNZwdfhm0mIq2",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Fin de Siglo (2019) Dance Scene"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Fin de Siglo (2019) Dance Scene ",
+  "av_file_order": [
+    "1ae2c50e-ee54-4cbe-9228-c68a4153aa6c"
+  ],
+  "created_at": "2026-06-26T15:05:04.860Z",
+  "created_by": "afier",
+  "updated_at": "2026-06-26T15:05:04.860Z",
+  "updated_by": "afier"
+}
