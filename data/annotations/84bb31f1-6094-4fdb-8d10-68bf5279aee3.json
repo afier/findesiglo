@@ -585,35 +585,6 @@
       "uuid": "46a98733-33e8-4803-bc11-221446ff1acb"
     },
     {
-      "start_time": 76,
-      "end_time": 81,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Ocho offers his cigarette to Javi. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Character",
-          "tag": "Ocho"
-        },
-        {
-          "category": "Character",
-          "tag": "Javi"
-        },
-        {
-          "category": "Object",
-          "tag": "Cigarette"
-        }
-      ],
-      "uuid": "e8da86da-2c65-42b5-a4d1-92580e8416b9"
-    },
-    {
       "start_time": 82,
       "end_time": 93,
       "annotation": [
