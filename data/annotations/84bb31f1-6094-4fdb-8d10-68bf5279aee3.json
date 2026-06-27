@@ -575,6 +575,602 @@
         }
       ],
       "uuid": "c4d92b74-1b8f-4ccd-ae9a-991ccfe72c04"
+    },
+    {
+      "start_time": 0,
+      "end_time": 1,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ocho takes the record out of its sleeve. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Object",
+          "tag": "Vinyl"
+        }
+      ],
+      "uuid": "20fea41f-816d-4c33-89a6-73e0592c8cc5"
+    },
+    {
+      "start_time": 2,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Javi has two drinks in hand, and gives one to Ocho as they exchange a joke. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Object",
+          "tag": "Drink"
+        },
+        {
+          "category": "Action",
+          "tag": "Dialogue"
+        }
+      ],
+      "uuid": "98775b6e-343c-45bf-acbb-ec5e1762702b"
+    },
+    {
+      "start_time": 10,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ocho places the needle on the record. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Object",
+          "tag": "Vinyl"
+        }
+      ],
+      "uuid": "24a4ffd0-268f-41ab-aea8-0e31b0169d03"
+    },
+    {
+      "start_time": 20,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Space Age Love Song begins to play, and Ocho and Javi begin to dance. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Object",
+          "tag": "Drink"
+        }
+      ],
+      "uuid": "55c7af1a-d40d-43ff-a977-310f6ed6f04f"
+    },
+    {
+      "start_time": 52,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ocho lights a cigarette and moves into another room. Javi continues dancing in the background. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Object",
+          "tag": "Cigarette"
+        },
+        {
+          "category": "Object",
+          "tag": "Drink"
+        }
+      ],
+      "uuid": "982bcb2e-c587-45ac-8373-c20e3ce3ef96"
+    },
+    {
+      "start_time": 61,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ocho moves back toward the room where Javi is and they dance. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Object",
+          "tag": "Drink"
+        }
+      ],
+      "uuid": "46a98733-33e8-4803-bc11-221446ff1acb"
+    },
+    {
+      "start_time": 76,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ocho offers his cigarette to Javi. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Object",
+          "tag": "Cigarette"
+        }
+      ],
+      "uuid": "e8da86da-2c65-42b5-a4d1-92580e8416b9"
+    },
+    {
+      "start_time": 82,
+      "end_time": 93,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ocho and Javi dance. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Object",
+          "tag": "Drink"
+        }
+      ],
+      "uuid": "1ed7477d-84e4-4cb1-88fc-a0ffb03a167d"
+    },
+    {
+      "start_time": 94,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ocho and Javi pass the cigarette. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Object",
+          "tag": "Cigarette"
+        },
+        {
+          "category": "Object",
+          "tag": "Drink"
+        }
+      ],
+      "uuid": "535e905e-a943-4cb5-86f0-2985e2c1712a"
+    },
+    {
+      "start_time": 103,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As Ocho and Javi dance, Javi takes Ocho's hat and puts it on. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Object",
+          "tag": "Hat"
+        }
+      ],
+      "uuid": "dd1854c1-c85f-4721-ac5e-998f68307bfc"
+    },
+    {
+      "start_time": 114,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ocho and Javi dance, immitating each other's movements. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        }
+      ],
+      "uuid": "f606ea0e-5ece-4738-b766-ee83def7fe66"
+    },
+    {
+      "start_time": 130,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ocho hugs Javi and lifts him. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Action",
+          "tag": "Hug"
+        }
+      ],
+      "uuid": "3e0bd4a2-7bae-478d-bb1c-82a716cdf241"
+    },
+    {
+      "start_time": 133,
+      "end_time": 137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Javi kisses Ocho and proceeds to push him away. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Action",
+          "tag": "Kiss"
+        }
+      ],
+      "uuid": "2a333486-1285-4b2e-a845-781422211529"
+    },
+    {
+      "start_time": 138,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ocho kisses Javi."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Action",
+          "tag": "Kiss"
+        }
+      ],
+      "uuid": "3ae0a8d6-2e63-4592-a8ca-92e3ffb7296d"
+    },
+    {
+      "start_time": 157,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Javi pushes Ocho away and Javi takes a pull of his cigarette as Ocho sits down. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Object",
+          "tag": "Cigarette"
+        }
+      ],
+      "uuid": "3532dd7e-20aa-4d51-b542-041c4be10f63"
+    },
+    {
+      "start_time": 166,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Javi sits beside Ocho on the couch and they laugh. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Object",
+          "tag": "Couch"
+        }
+      ],
+      "uuid": "6b0086b8-308a-42fe-bc24-ce4956c59296"
+    },
+    {
+      "start_time": 175,
+      "end_time": 183,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ocho kisses Javi. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Object",
+          "tag": "Couch"
+        },
+        {
+          "category": "Action",
+          "tag": "Kiss"
+        }
+      ],
+      "uuid": "f6381915-77e2-48e1-b285-5fce19938832"
+    },
+    {
+      "start_time": 184,
+      "end_time": 190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ocho and Javi undress while they kiss. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Object",
+          "tag": "Couch"
+        },
+        {
+          "category": "Action",
+          "tag": "Kiss"
+        }
+      ],
+      "uuid": "8910019f-ccc5-41a2-9503-7a058dda4757"
+    },
+    {
+      "start_time": 191,
+      "end_time": 211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ocho and Javi engage in sex. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Ocho"
+        },
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Object",
+          "tag": "Couch"
+        },
+        {
+          "category": "Action",
+          "tag": "Sex"
+        }
+      ],
+      "uuid": "63584ceb-00bd-4598-99d0-15fa36264548"
+    },
+    {
+      "start_time": 212,
+      "end_time": 213,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Javi is sleeping alone on the couch in the morning. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Character",
+          "tag": "Javi"
+        },
+        {
+          "category": "Object",
+          "tag": "Couch"
+        },
+        {
+          "category": "Action",
+          "tag": "Sleep"
+        }
+      ],
+      "uuid": "5a9eb630-046b-4bee-b3a1-590a77b01dfe"
     }
   ],
   "set": "Default",
