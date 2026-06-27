@@ -577,31 +577,6 @@
       "uuid": "c4d92b74-1b8f-4ccd-ae9a-991ccfe72c04"
     },
     {
-      "start_time": 10,
-      "end_time": 19,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Ocho places the needle on the record. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Character",
-          "tag": "Ocho"
-        },
-        {
-          "category": "Object",
-          "tag": "Vinyl"
-        }
-      ],
-      "uuid": "24a4ffd0-268f-41ab-aea8-0e31b0169d03"
-    },
-    {
       "start_time": 20,
       "end_time": 51,
       "annotation": [
