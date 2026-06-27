@@ -146,35 +146,6 @@
       "uuid": "e8deab0b-766c-4558-8189-f82e5fd28412"
     },
     {
-      "start_time": 103,
-      "end_time": 113,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "As Ocho and Javi dance, Javi takes Ocho's hat and puts it on. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Character",
-          "tag": "Ocho"
-        },
-        {
-          "category": "Character",
-          "tag": "Javi"
-        },
-        {
-          "category": "Object",
-          "tag": "Hat"
-        }
-      ],
-      "uuid": "d13500c0-a759-42f4-acde-f3525101bf63"
-    },
-    {
       "start_time": 114,
       "end_time": 129,
       "annotation": [
