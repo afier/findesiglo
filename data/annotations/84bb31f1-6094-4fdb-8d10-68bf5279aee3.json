@@ -117,31 +117,6 @@
       "uuid": "7ffba050-46d8-4dc0-b4ed-0dca5f38a984"
     },
     {
-      "start_time": 61,
-      "end_time": 75,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Ocho moves back toward the room where Javi is and they dance. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Character",
-          "tag": "Ocho"
-        },
-        {
-          "category": "Character",
-          "tag": "Javi"
-        }
-      ],
-      "uuid": "e0095eca-9e24-4bbd-9319-78c204577771"
-    },
-    {
       "start_time": 76,
       "end_time": 81,
       "annotation": [
