@@ -577,35 +577,6 @@
       "uuid": "c4d92b74-1b8f-4ccd-ae9a-991ccfe72c04"
     },
     {
-      "start_time": 20,
-      "end_time": 51,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Space Age Love Song begins to play, and Ocho and Javi begin to dance. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Character",
-          "tag": "Ocho"
-        },
-        {
-          "category": "Character",
-          "tag": "Javi"
-        },
-        {
-          "category": "Object",
-          "tag": "Drink"
-        }
-      ],
-      "uuid": "55c7af1a-d40d-43ff-a977-310f6ed6f04f"
-    },
-    {
       "start_time": 52,
       "end_time": 60,
       "annotation": [
