@@ -117,35 +117,6 @@
       "uuid": "7ffba050-46d8-4dc0-b4ed-0dca5f38a984"
     },
     {
-      "start_time": 52,
-      "end_time": 60,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Ocho lights a cigarette and moves into another room. Javi continues dancing in the background. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Character",
-          "tag": "Ocho"
-        },
-        {
-          "category": "Character",
-          "tag": "Javi"
-        },
-        {
-          "category": "Object",
-          "tag": "Cigarette"
-        }
-      ],
-      "uuid": "81c6a080-bf61-474f-b895-dbcac7722485"
-    },
-    {
       "start_time": 61,
       "end_time": 75,
       "annotation": [
