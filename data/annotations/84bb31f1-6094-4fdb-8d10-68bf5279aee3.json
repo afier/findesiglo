@@ -577,39 +577,6 @@
       "uuid": "c4d92b74-1b8f-4ccd-ae9a-991ccfe72c04"
     },
     {
-      "start_time": 2,
-      "end_time": 9,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Javi has two drinks in hand, and gives one to Ocho as they exchange a joke. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Character",
-          "tag": "Ocho"
-        },
-        {
-          "category": "Character",
-          "tag": "Javi"
-        },
-        {
-          "category": "Object",
-          "tag": "Drink"
-        },
-        {
-          "category": "Action",
-          "tag": "Dialogue"
-        }
-      ],
-      "uuid": "98775b6e-343c-45bf-acbb-ec5e1762702b"
-    },
-    {
       "start_time": 10,
       "end_time": 19,
       "annotation": [
