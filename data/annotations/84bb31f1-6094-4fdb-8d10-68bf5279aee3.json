@@ -146,35 +146,6 @@
       "uuid": "e8deab0b-766c-4558-8189-f82e5fd28412"
     },
     {
-      "start_time": 138,
-      "end_time": 156,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Ocho kisses Javi."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Character",
-          "tag": "Ocho"
-        },
-        {
-          "category": "Character",
-          "tag": "Javi"
-        },
-        {
-          "category": "Action",
-          "tag": "Kiss"
-        }
-      ],
-      "uuid": "2db8b367-2119-4c5d-bb24-4644f52aa544"
-    },
-    {
       "start_time": 157,
       "end_time": 165,
       "annotation": [
