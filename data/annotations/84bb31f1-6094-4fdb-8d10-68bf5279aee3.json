@@ -577,35 +577,6 @@
       "uuid": "c4d92b74-1b8f-4ccd-ae9a-991ccfe72c04"
     },
     {
-      "start_time": 0,
-      "end_time": 1,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Ocho takes the record out of its sleeve. "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "Character",
-          "tag": "Ocho"
-        },
-        {
-          "category": "Character",
-          "tag": "Javi"
-        },
-        {
-          "category": "Object",
-          "tag": "Vinyl"
-        }
-      ],
-      "uuid": "20fea41f-816d-4c33-89a6-73e0592c8cc5"
-    },
-    {
       "start_time": 2,
       "end_time": 9,
       "annotation": [
